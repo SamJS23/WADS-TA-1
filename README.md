@@ -1,1 +1,4 @@
-# WADS-TA-1
+- Name: Samuel James Setiadi
+- Student ID: 2702357876
+- Class: B4CC
+- Article:
